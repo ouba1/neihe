@@ -5,7 +5,7 @@
 ### Ubuntu14.04更换内核
 
 ```
-apt install -y wget && wget --no-check-certificate -O U14.sh https://raw.githubusercontent.com/xratzh/XRSK/master/U14.sh && bash U14.sh
+apt install -y wget && wget --no-check-certificate -O U14.sh https://raw.githubusercontent.com/ouba1/neihe/master/U14.sh && bash U14.sh
 ```
 之后输入Y就会重启即可。
 
@@ -13,7 +13,7 @@ apt install -y wget && wget --no-check-certificate -O U14.sh https://raw.githubu
 ### Ubuntu16.04更换内核
 
 ```
-apt install -y wget && wget --no-check-certificate -O U16.sh https://raw.githubusercontent.com/xratzh/XRSK/master/U16.sh && bash U16.sh
+apt install -y wget && wget --no-check-certificate -O U16.sh https://raw.githubusercontent.com/ouba1/neihe/master/U16.sh && bash U16.sh
 ```
 之后输入Y就会重启即可。
 
@@ -21,7 +21,7 @@ apt install -y wget && wget --no-check-certificate -O U16.sh https://raw.githubu
 ### Debian8更换内核
 
 ```
-apt install -y wget && wget --no-check-certificate -O D8.sh https://raw.githubusercontent.com/xratzh/XRSK/master/D8.sh && bash D8.sh
+apt install -y wget && wget --no-check-certificate -O D8.sh https://raw.githubusercontent.com/ouba1/neihe/master/D8.sh && bash D8.sh
 ```
 之后输入Y就会重启即可。
 
@@ -29,26 +29,26 @@ apt install -y wget && wget --no-check-certificate -O D8.sh https://raw.githubus
 ### CentOS7更换内核
 **第一步：**
 ```
-yum install -y wget && wget --no-check-certificate -O X71.sh https://raw.githubusercontent.com/xratzh/XRSK/master/X71.sh && bash X71.sh
+yum install -y wget && wget --no-check-certificate -O X71.sh https://raw.githubusercontent.com/ouba1/neihe/master/X71.sh && bash X71.sh
 ```
 之后输入Y就会重启
 
 **第二步：**
 ```
-wget --no-check-certificate -O X72.sh https://raw.githubusercontent.com/xratzh/XRSK/master/X72.sh && bash X72.sh
+wget --no-check-certificate -O X72.sh https://raw.githubusercontent.com/ouba1/neihe/master/X72.sh && bash X72.sh
 ```
 
 ---
 ### CentOS6更换内核
 **第一步：**
 ```
-yum install -y wget && wget --no-check-certificate -O X61.sh https://raw.githubusercontent.com/xratzh/XRSK/master/X61.sh && bash X61.sh
+yum install -y wget && wget --no-check-certificate -O X61.sh https://raw.githubusercontent.com/ouba1/neihe/master/X61.sh && bash X61.sh
 ```
 之后输入Y就会重启
 
 **第二步：**
 ```
-wget --no-check-certificate -O X62.sh https://raw.githubusercontent.com/xratzh/XRSK/master/X62.sh && bash X62.sh
+wget --no-check-certificate -O X62.sh https://raw.githubusercontent.com/ouba1/neihe/master/X62.sh && bash X62.sh
 ```
 
 锐速的安装请参考[https://github.com/0oVicero0/serverSpeeder_Install](https://github.com/0oVicero0/serverSpeeder_Install)
